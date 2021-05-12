@@ -1,0 +1,23 @@
+For testing, these specific applications or physical items need to be used:
+
+Virtual reality headset:
+
+Oculus Rift S
+
+Game engine that was used to run the application:
+
+Unity, version 2020.1.9f1
+(This specific version needs to be used when running the application of
+ the application will not work/ may not work properly).
+
+Once these items/applications are installed,
+the virtual reality headset needs to be connected and,
+the application folder needs to be opened through Unity game engine.
+
+From then, the scene called 'MainMenu' 
+(that can be found in the 'Scenes' Folder in Assets)
+needs to be run.
+
+Thanks.
+Any additional questions, e-mail:
+modestas.cepulis@students.ittralee.ie

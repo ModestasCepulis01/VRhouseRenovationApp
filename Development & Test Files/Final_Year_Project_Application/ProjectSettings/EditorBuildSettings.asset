@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenuScene/StartScene.unity
+    guid: 6b1f7095d491b4344b989e318c313b07
+  - enabled: 1
+    path: Assets/Scenes/Room Builder/Room Builder.unity
+    guid: c25561124b729f54ea4bab3bac2a99f1
+  - enabled: 1
+    path: Assets/Scenes/Room samples/1x1 room sample/1x1 room sample.unity
+    guid: 54fe099255b024c478c8845d35070ec2
+  - enabled: 1
+    path: Assets/Scenes/Room samples/1x2 room sample/1x2 room sample.unity
+    guid: e42a36c45bcb5ec42b0129349377ffde
+  - enabled: 1
+    path: Assets/Scenes/Room samples/2x1 room sample/2x1 room sample.unity
+    guid: 5ac2598b610deb74fa149789506ccc1e
+  - enabled: 1
+    path: Assets/Scenes/Room samples/4x4 room sample/4x4Room.unity
+    guid: 3bc33fc529864e448a6bbe59cdd15639
+  - enabled: 1
+    path: Assets/Scenes/Load_Data_Scene/LoadDataScene.unity
+    guid: 20fc12bcef5592245879cb1762a62b3f
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: ffddc80397581ed4db3f12a786bf06bd,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 85160ce26f30be141aa716046fd43164,
+      type: 2}
